@@ -3,15 +3,15 @@
 
 También comocido como Aufervic en Github.
 
-# **¿Quién soy?**
+### **¿Quién soy?**
 
 Soy un apasionado de la tecnología, aprendí a programar con el lenguaje Python y ahora estoy incursionando en el mundo del desarrollo web con Javascript.
 
-# **¿Qué hago?**
+### **¿Qué hago?**
 
 Desarrollo proyectos web con tecnologías modernas. Me encanta crear aplicaciones de utilidad para las personas.
 
-# **¿Cuál es mi objetivo?**
+### **¿Cuál es mi objetivo?**
 
 Dejar huella en el mundo a travéz de un proyecto tecnológico.
 Creo que la tecnología forma parte de la naturaleza humana y me fascina descubrir el sin fin de posibilidades que nos ofrece.
